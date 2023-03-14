@@ -1,4 +1,5 @@
-![Welcome Banner](https://user-images.githubusercontent.com/12779378/225151832-5cfd8e4e-ead9-44e5-b6ff-b1274e6cbfa2.gif)
+![Welcome Banner](https://user-images.githubusercontent.com/12779378/225155438-56b28bd7-1595-4d3e-b35f-6819cc9eaa3d.gif)
+
 
 ### About me
 
